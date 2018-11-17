@@ -3,6 +3,7 @@ This is a script written by Randal S. Olson (randalolson.com) for the Traveling 
 
 More information on the project can be found on my blog:
 
+
 http://www.randalolson.com/2018/04/11/traveling-salesman-portrait-in-python/
 
 Please check my project repository for information on how this script can be used and shared:
